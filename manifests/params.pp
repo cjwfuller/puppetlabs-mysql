@@ -59,7 +59,7 @@ class mysql::params {
         $pidfile             = '/var/run/mariadb/mariadb.pid'
       } else {
         $client_package_name = 'mysql'
-        $server_package_name = 'mysql-server'
+        $server_package_name = 'mysql-community-release'
         $server_service_name = 'mysqld'
         $log_error           = '/var/log/mysqld.log'
         $config_file         = '/etc/my.cnf'
