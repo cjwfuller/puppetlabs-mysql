@@ -1,10 +1,10 @@
 {
-  "name": "puppetlabs-mysql",
+  "name": "gousto-mysql",
   "version": "3.2.0",
   "author": "Puppet Labs",
   "summary": "Installs, configures, and manages the MySQL service.",
   "license": "Apache-2.0",
-  "source": "git://github.com/puppetlabs/puppetlabs-mysql.git",
+  "source": "git://github.com/Gousto/puppetlabs-mysql.git",
   "project_page": "http://github.com/puppetlabs/puppetlabs-mysql",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
   "operatingsystem_support": [
